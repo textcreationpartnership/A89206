@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The moderate presbyter: or, a forme of church-government according to the word of God. Published according to order.</title>
+         </titleStmt>
+         <extent>Approx. 39KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89206</idno><idno type="EEBO-CITATION">99859771</idno>
+  <idno type="VID">159788</idno>
+  <idno type="EEBO-PROQUEST">2240868589</idno>
+  
+            <idno type="STC">Wing M2327</idno>
+            <idno type="STC">Thomason E344_11</idno>
+            <idno type="STC">ESTC R14948</idno>
+            <idno type="PROQUEST">99859771</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99859771e"/>
+            <note>(EEBO-TCP ; phase 2, no. A89206)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 159788)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 56:E344[11])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The moderate presbyter: or, a forme of church-government according to the word of God. Published according to order.</title>
+               </titleStmt>
+               <extent>[2], 21, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>for Richard Cotes.,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "July 13th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Church of England --  Government --  Early works to 1800.</term>
+               <term type="topical_term">Church polity --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Church history --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:159788:1"/>
+            <pb facs="tcp:159788:1"/>
+            <p>THE Moderate Presbyter: OR, A FORME OF <hi>CHƲRCH-GOVERNMENT</hi> ACCORDING To the Word of GOD.</p>
+            <p>
+               <hi>Published according to Order.</hi>
+            </p>
+            <p>Printed at <hi>London</hi> for <hi>Richard Cotes.</hi> 1646.</p>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:159788:2"/>
+            <pb n="1" facs="tcp:159788:2"/>
+            <head>THE Sacred Discipline of the Church described in the Word of God, accor<g ref="char:EOLhyphen"/>ding to the judgement of the godly Mini<g ref="char:EOLhyphen"/>sters of the Presbyterian party, which lived in the daies of Queen <hi>Elizabeth</hi> of blessed MEMORIE.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He Discipline of Christs Church, that is necessary for all times, is delivered by Christ, and set down in the holy Scriptures. Therefore the true and lawfull Discipline is to bee fetched from them, and from thence alone, and that which resteth upon any other foundation, ought to bee esteemed unlawfull and counter<g ref="char:EOLhyphen"/>feit.</p>
+            <p>Of all particular Churches, there is one and the same right order and form. Therefore also no one may challenge to it self any power over others, nor any right which doth not a<g ref="char:EOLhyphen"/>like agree to others.</p>
+            <p>The Ministers of publique charges in every particular Church ought to bee called and appointed to their charges by a lawfull Ecclesiasticall calling, such as hereafter is set down. All these for the divers regard of their severall kinds are of equall power amongst themselves.</p>
+            <p>No man can bee lawfully called to publique charge in any
+<pb n="2" facs="tcp:159788:3"/>Church, but hee that is fit to discharge the same. And none is to bee accounted fit but hee that is endued with the com<g ref="char:EOLhyphen"/>mon gifts of all the godly, that is, with Faith and a blamelesse life. And further also with those that are proper to that Mi<g ref="char:EOLhyphen"/>nistery wherein hee is to bee used, and necessary for the exe<g ref="char:EOLhyphen"/>cuting of the same; Whereupon for triall of those gifts some convenient way and examination is to bee used.</p>
+            <p>The party to bee called must first bee elected, then hee is to bee ordained to that charge whereunto hee is chosen by the Prayers of that Church, whereunto hee is to bee admitted, the mutuall duties of him and of the Church, being before laid open.</p>
+            <p>The Ministers of the Church are: first, they that are Mi<g ref="char:EOLhyphen"/>nisters of the Word. In their examination it is specially to bee taken heed unto that they bee apt to teach, and tryed men, not newly planted and converted to the Faith.</p>
+            <p>Now these Ministers of the Word, are first Pastours, which doe administer the Word and Sacraments. Then Teachers which are occupied in wholsome Doctrine.</p>
+            <p>Besides these, there are also Elders, which watch over the life and behaviour of every man; and Deacons which have care over the poore.</p>
+            <p>Further, in every particular Church there ought to bee a Presbytery, which is a Consistory, and as it were a Senate of Elders. Under the name of Elders here are contained they who in the Churches minister doctrine, and they who are properly called Elders.</p>
+            <p>By the common councell of the Eldership all things are directed that belong to the state of their Church. First, such as belong to the guidance of the whole body of it, in the ho<g ref="char:EOLhyphen"/>ly and common assembly, gathered together in the name of the Lord. That all things may bee done in them duly, order<g ref="char:EOLhyphen"/>ly, and to edification.</p>
+            <pb n="3" facs="tcp:159788:3"/>
+            <p>Secondly, Then also such as pertain to particular persons. First, to all the members of that Church, that the good may enjoy all the priviledges that belong unto them; that the wicked may bee corrected with Ecclesiasticall censures accor<g ref="char:EOLhyphen"/>ding to the quality of the fault private and publique, by ad<g ref="char:EOLhyphen"/>monishing and by removing either from the Lords Supper, by suspention (as it is commonly called) or out of the Church by excommunication. Then which belong specially to the Ministers of publique charge in the Church, to their calling, either to bee begun or ended, and ended either by relieving or punishing them, and that for a time by suspention, or alto<g ref="char:EOLhyphen"/>gether by deposition.</p>
+            <p>For directing of the Eldership, let the Pastour bee set over it, or if there bee moe Pastours then one in the same Church, Let the Pastours doe it in their turnes.</p>
+            <p>But yet in all the greater affaires of the Church, as in ex<g ref="char:EOLhyphen"/>communicating of any, and in choosing or deposing of Church Ministers, nothing may bee concluded without the knowledge and consent of the Church.</p>
+            <p>Particular Churches ought to yeeld mutuall help one to another, for which cause they are to communicate amongst themselves.</p>
+            <p>The end of this communicating together, is, that all things in them may bee so directed both in regard of Doctrine, and also of Discipline, as by the Word of God they ought to be.</p>
+            <p>Therefore the things that belong hereunto are determined by the common opinion of those who meet so to communi<g ref="char:EOLhyphen"/>cate together, and whatsoever is to bee amended, furthered, or procured in any of these several Churches, or in all the Chur<g ref="char:EOLhyphen"/>ches that belong to that Assembly. Wherein albeit no parti<g ref="char:EOLhyphen"/>cular Church hath power over another, yet every particular Church of the same resort, meeting, and counsell ought to o<g ref="char:EOLhyphen"/>bey the opinion of more Churches with whom they commu<g ref="char:EOLhyphen"/>nicate.</p>
+            <pb n="4" facs="tcp:159788:4"/>
+            <p>For holding of those meetings and Assemblies there are to be chosen by every Church belonging to that Assembly, prin<g ref="char:EOLhyphen"/>cipall men from among the Elders, who are to have their in<g ref="char:EOLhyphen"/>structions from them, and so to be sent to the Assembly. There must be also a care had, that the things they shall returne to have been godly agreed on by the meetings, be diligently observed by the Churches.</p>
+            <p>Further, in such Assemblies there is also to be chosen one that may be set over the Assemblies who may moderate and direct them. His duty is to see that the Assembly bee held godly, quietly, and comely. Therefore it belongeth unto him to begin and end the Conference with Prayer; to know every mans instructions; to propound in order the things that are to be handled; to gather their Opinions, and to propound what is the opinion of the greater part. It is also the part of the rest of the Assembly to speak their opinions of the things propounded, godly and quietly.</p>
+            <p>
+               <hi>The Synodicall Discipline gathered out of the Synods and use of the Churches which have restored it according to the Word of God, and out of sundry Bookes that are written of the same, and referred unto certain Heads:</hi>
+            </p>
+            <div type="part">
+               <head>Of the necessity of a Calling.</head>
+               <p>Let no man thrust himself into the executing of any part of Publique charge in the administration of the Word, Sacra<g ref="char:EOLhyphen"/>ments, Discipline, or care over the Poore. Neither let any such sue of seek for any Publique charge of the Church, but let every one tarry untill he be lawfully called.</p>
+               <p>
+                  <hi>The manner of entring and determining of a Calling, and against a Ministery of no certaine place, and the desert on of a Church.</hi>
+               </p>
+               <p>Let none be called but unto some certain Charge ordained of God, and to the exercising of the same in some particular Congregation; and he that is so called, let him be so bound to that Church, that he may not after be of any other, or
+<pb n="5" facs="tcp:159788:4"/>depart from it without just and necessary cause, which is to be judged of by those that have lawfull authority so to do.</p>
+               <p>Let none be called, but they that have first subscribed the confession of Doctrine and Discipline, whereof let them be admonished to have Copies with themselves.</p>
+            </div>
+            <div type="part">
+               <head>Of the examination of Ministers.</head>
+               <p>In the examination of Ministers, the testimony of the place from whence they come is to be demanded, whereby it may be understood what life and conversation hee hath been of, and whether he hath been addicted to any Heresie, or to cu<g ref="char:EOLhyphen"/>rious and strange questions, and idle speculations; or rather, whether he be accompted sound, and consenting in all things to the Doctrine received in the Church. Whereunto if hee agree, he is also to expound some part of the holy Scriptures twice or oftner, as it shall seem meet to the Examiners, and that before the Conference, and that Church which is inter<g ref="char:EOLhyphen"/>ressed. Let him also be demanded of the principall Heads of Divinity, and whether he will diligently execute and dis<g ref="char:EOLhyphen"/>charge his Ministery; and in the execution thereof propound unto himself, not his own desires and commodities, but the glory of God, and edification of the Church. Lastly, whe<g ref="char:EOLhyphen"/>ther he will be studious and carefull to maintaine and pre<g ref="char:EOLhyphen"/>serve wholsome Doctrine, and Ecclesiasticall Discipline. Thus let the Minister be examined not onely by one El<g ref="char:EOLhyphen"/>dership, but also by some greater meeting and Assembly.</p>
+            </div>
+            <div type="part">
+               <head>Of Election.</head>
+               <p>Before the Election of a Minister, and the deliberation of the Conference concerning the same. Let there be a day of Fast kept in the Church interressed.</p>
+            </div>
+            <div type="part">
+               <head>Of the place of exercising this Calling.</head>
+               <p>Albeit it be lawfull for a Minister upon just occasion to Preach in another Church, then that whereof he is Minister, yet none may exercise any ordinary Ministery elsewhere but
+<pb n="6" facs="tcp:159788:5"/>for a certain time upon great occasion, and by the consent of his Church and Conference.</p>
+            </div>
+            <div type="part">
+               <head>Of the Office of the Ministers of the Word, and first of the Order of Lyturgie or Common-Prayer.</head>
+               <p>Let the Minister that is to Preach, name a Psalme, or a part of a Psalme (beginning with the first, and so proceeding) that may be sung by the Church, noting to them the end of their singing, to wit, the glory of God, and their own edi<g ref="char:EOLhyphen"/>fication. After the Psalme let a short admonition to the people, follow of preparing themselves to pray duely unto God.</p>
+               <p>Then let there be made a Prayer containing a generall con<g ref="char:EOLhyphen"/>fession first of the guilt of sinne both originall and actuall and of the punishment which is due by the Law for them both. Then also of the promise of the Gospel, and in respect of it supplication for pardon of the said guilt and punish<g ref="char:EOLhyphen"/>ment and Petition of grace promised as for the duties of the whole life; so especially for the godly expounding and re<g ref="char:EOLhyphen"/>ceiving of the Word. Let this petition be concluded with the Lords Prayer. After the Sermon let Prayer be made againe first for grace to profit by the Doctrine delivered, the princi<g ref="char:EOLhyphen"/>pall heads thereof being remembred; then for all men, but chiefly for the universall Church, and for all estates and de<g ref="char:EOLhyphen"/>grees of the people, which is likewise to be ended with the Lords Prayer, and the singing of a Psalme as before. Last of all, let the Congregation be dismissed with some convenient form of blessing taken out of the Scriptures, such as is <hi>Num.</hi> 6.24. 2 <hi>Cor.</hi> 13.13.</p>
+            </div>
+            <div type="part">
+               <head>Of Preaching.</head>
+               <p>Let him that shall Preach, choose some part of the Cano<g ref="char:EOLhyphen"/>nicall Scriptures to expound, and not of the Apocrypha.</p>
+               <p>Further in his ordinary Ministery, let him not take Postills, (as they are called) but some whole book of the holy Scrip<g ref="char:EOLhyphen"/>ture,
+<pb n="7" facs="tcp:159788:5"/>especially of the New Testament to expound in or<g ref="char:EOLhyphen"/>der. In choise whereof, regard is to bee had both of the Ministers ability, and of the edification of the Church.</p>
+               <p>Hee that preacheth must performe two things; the first that his speech bee uncorrupt; which is to be considered both in re<g ref="char:EOLhyphen"/>gard of the doctrine, that it bee holy, sound, wholesome, and profitable to edification, not devilish, hereticall, leavened, corrupt, fabulous, curious, or contentious. And also in re<g ref="char:EOLhyphen"/>spect of the manner of it, that it bee proper to the place which is handled, that is, which either is contained plainly in the very words, or if it bee gathered by consequent that the same bee fit and cleare, and such as may rise upon the pro<g ref="char:EOLhyphen"/>perty of the words, grace of speech, and suit of the matter, and not bee allegoricall, strong wrested, and farre fetched. Now let that which is such and cheifly which is fittest for the times and occasions of the Church bee delivered. Further let the explication, confirmation, inlargement, and application, and the whole treatise and handling of it bee in the vulgar tongue, and let the whole confirmation, and proof be made by arguments, testimonies, and examples taken one<g ref="char:EOLhyphen"/>ly out of the holy Scriptures, applyed fitly and according to the naturall meaning of the places that are alledged.</p>
+               <p>The second thing to bee performed by him that preacheth is reverend gravity. This is considered first in the stile or phrase and manner of speech that it bee spirituall, pure, pro<g ref="char:EOLhyphen"/>per, simple, and applyed to the capacity of the people, not such as humane wisedome teacheth, nor savoring of new fanglednesse, nor either so affectate as it may serve for pomp and austentaion; or so carelesse and base as become<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h not Mi<g ref="char:EOLhyphen"/>nisters of the Word of God. Secondly, it is also to bee re<g ref="char:EOLhyphen"/>garded as well in ordering the voyce, in which a <gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>re must be had that avoiding the keeping alwayes of one <gap reason="illegible" resp="#murp" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>e it may bee equall, and both rise and fall by degrees; As also in or<g ref="char:EOLhyphen"/>dering
+<pb n="8" facs="tcp:159788:6"/>the gesture wherein (the body being upright) the gui<g ref="char:EOLhyphen"/>ding and ordering of the whole body is to follow the voyce, there being avoided in it all unseemely gestures of the head or other parts, and often turning of the body to divers sides. Fi<g ref="char:EOLhyphen"/>nally let the gesture bee grave, modest, and seemely, not utter<g ref="char:EOLhyphen"/>ly none, nor to much; neither like the gestures of Players or Fencers.</p>
+               <p>These things are to bee performed by him that preacheth, whereby when need requireth they may bee examined, who are trained and exercised to bee made fit to preach.</p>
+               <p>Let there be, if may it be, every Sabbath day two sermons, and let them that preach, alwayes indeavour to keepe them<g ref="char:EOLhyphen"/>selves within one houre, especially on the worke dayes. The use of preaching at burialls is to bee left as it may bee done conveniently, because there is danger, that they may nourish the superstition of some, or bee abused to pompe and vanity,</p>
+            </div>
+            <div type="part">
+               <head>Of the Catechisme.</head>
+               <p>Let the Catechisme bee taught in every Church. Let there bee two sorts, one more large applyed to the delivering of the summe of Religion, by a suite and order of certaine places of the Scriptures, according to which some point of the holy doctrine may bee expounded every weeke. Ano<g ref="char:EOLhyphen"/>ther of the same sort, but shorter, fit for the examination of the rude and ignorant before they bee admitted to the Lords Supper.</p>
+            </div>
+            <div type="part">
+               <head>Of the other parts of Lyturgie or divine Service</head>
+               <p>All the rest of the Lyturgie or divine Service consisteth in the administration of the Sacraments, and (by the custome of the Church) in blessing of marriages. The most commo<g ref="char:EOLhyphen"/>dious forme thereof, is that which is used by the Churches that have reformed their discipline according to the word of God.</p>
+            </div>
+            <div type="part">
+               <pb n="9" facs="tcp:159788:6"/>
+               <head>Of Sacraments.</head>
+               <p>Let onely a Minister of the Word that is a Preacher, Mini<g ref="char:EOLhyphen"/>ster the Sacraments, &amp; that after the preaching of the Word, and not in any other place then in the publique assemblies of the Church.</p>
+            </div>
+            <div type="part">
+               <head>Of Baptisme.</head>
+               <p>Women onely may not offer unto Baptism, those that are to bee baptized, but the father, if it may bee, or in his name some other. They which present unto baptisme are to bee perswaded, not to give those that are baptized in the names of God, or of Christ, or of Angells, or of holy Offices, as of Baptist, Evangelist, &amp;c. Nor such as favour of Paga<g ref="char:EOLhyphen"/>nisme or Popery; but such, cheifly whereof their are examples in the holy Scriptures, in the names of those who are repor<g ref="char:EOLhyphen"/>ted in them to have beene godly and vertuous.</p>
+            </div>
+            <div type="part">
+               <head>Of the Communion.</head>
+               <p>Let the time of celebrating the Communion bee made knowne eight dayes before, that the Congregation may pre<g ref="char:EOLhyphen"/>pare themselves; and that the Elders may doe their duty in going to and visiting whom they ought.</p>
+            </div>
+            <div type="part">
+               <head>Of signifying their names that are to communicate.</head>
+               <p>Let them which before have not beene received to the Lords Table, when they first desire to come to it; give their names to the Ministers seven dayes before Communion, that care of inquiring of them may bee committed to the Elders: that if there bee any cause of hinderance, there may bee stay made in time; but if there bee no such thing, let them proceed, where need may bee to the examining of their faith before some of the Elders and Ministers.</p>
+               <p>Every month before the Communion let this whole treatise of Discipline be read in the Consistory, and let the Ministers, Elders, and Deacons bee censured one after another; yet so that the Minister concerning Doctrine, bee censured of Mini<g ref="char:EOLhyphen"/>sters onely.</p>
+               <pb n="10" facs="tcp:159788:7"/>
+               <p>Let them onely be admitted to the Communion, that have made confession of their Faith, and submitted themselves to the Discipline, unlesse they shall bring Letters testimonials of good credit from some other place, or shall approve them<g ref="char:EOLhyphen"/>selves by some other sufficient testimony.</p>
+               <p>Children are not to be admitted to the Communion be<g ref="char:EOLhyphen"/>fore they be of the age of 14 years except the Consistory shall otherwise determine.</p>
+               <p>On the Sabbath day next before the Communion, let men<g ref="char:EOLhyphen"/>tion be made in the Sermon of the Examination, whereunto the Apostle exhorteth, and of the peace that is by faith: In the day of the Communion, let there be speech of the doctrine of the Sacraments (and especially of the Lords Supper.</p>
+            </div>
+            <div type="part">
+               <head>Of Fasting.</head>
+               <p>Let the day of Fasting be published by the Pastor accor<g ref="char:EOLhyphen"/>ding to the advise of the Consistory, either for supplication for turning away of calamities present, or threatned, or for petition of some speciall grace. Let the Sermons upon the same day before and after noone (as on the Lords day) be such as may be fit for the present occasion.</p>
+            </div>
+            <div type="part">
+               <head>Of Holidayes.</head>
+               <p>Holidayes are conveniently to be abolished.</p>
+            </div>
+            <div type="part">
+               <head>Of Marriages.</head>
+               <p>Let espousing goe before Marriage: let the words of e<g ref="char:EOLhyphen"/>spousing be of the present time, and without condition, and before sufficient Witnesses on both sides. It is to be wished that the Minister, or an Elder be present at the Spousalls, who (having called upon God) may admonish both parties of their duties: And first may have care of avoiding the de<g ref="char:EOLhyphen"/>grees forbidden both by the Law of God and man, and then may demand of them whether they be free from any bond of marriage, which if they professe, and bee strangers
+<pb n="11" facs="tcp:159788:7"/>he may also require sufficient testimony. Further also they are to be demanded whether they have been marryed before, and of the death of the Party with whom they were married, which if they acknowledge and be strangers, he may demand convenient testimony of the death of the other Party. Fi<g ref="char:EOLhyphen"/>nally let them be asked if they be under the government of any, whether they whom it concerneth have consented.</p>
+               <p>The Spousalls being done in due order let them not be dis<g ref="char:EOLhyphen"/>solved though both Parties should consent. Let the marri<g ref="char:EOLhyphen"/>age bee solemnized within two moneths after. Before the marriage let the promise bee published three severall Sabbath daies, but first let the parties espoused with their Parents or Governours, desire the publishing thereof of the Minister and two Elders at the least that they may bee demanded of those things that are needfull, and let them require to see the In<g ref="char:EOLhyphen"/>strument of the Covenant of the mariage, or at least sufficient testimony of the espousals.</p>
+               <p>Marriage may bee solemnized and blessed upon any ordi<g ref="char:EOLhyphen"/>nary day of publique Player, saving upon a day of Fast.</p>
+            </div>
+            <div type="part">
+               <head>Of Schooles.</head>
+               <p>Let Children bee instructed in Schooles, both in other learning, and especially in the Catechisme, that they may repeat it by heart, and understand it when they are so in<g ref="char:EOLhyphen"/>structed, let them bee brought to the Lords Supper, after they have been examined by the Minister, and allowed by him.</p>
+            </div>
+            <div type="part">
+               <head>Of Students of Divinity, and their exercises.</head>
+               <p>In every Church where it may conveniently be done, care is to be had that some poore Scholars, Studious of Divinity, being fit for Theologicall Exercises, and especially for ex<g ref="char:EOLhyphen"/>pounding of holy Scripture, may by the liberality of the god<g ref="char:EOLhyphen"/>ly rich be taught and trained up to preach.</p>
+               <p>Let that exposition (as often as it shall be convenment to
+<pb n="12" facs="tcp:159788:8"/>be had) be in the presence at least of one Minister, by whose presence they may be kept in Order, and in the same sort as touching the manner of Preaching, that publique Ser<g ref="char:EOLhyphen"/>mons are made; which being ended, let the other Students (he being put a part that was Speaker) note wherein he hath failed in any of those things that are to bee performed by him that preacheth publikely, as is set downe before. Of whose opinion let the Minister that is present, and is mo<g ref="char:EOLhyphen"/>derator of their Exercise, judge and admonish the Speaker as he shall think meet.</p>
+            </div>
+            <div type="part">
+               <head>Of Elders.</head>
+               <p>Let the Elders know every particular house &amp; person of the Church, that they may informe the Minister of the conditi<g ref="char:EOLhyphen"/>on of every one, and the Deacons of the sick and poore, that they may take care to provide for them; they are not to bee perpetuall, neither yet easily to be changed.</p>
+            </div>
+            <div type="part">
+               <head>Of Consistories.</head>
+               <p>In the Consistory the most voices are to be yeelded unto. In it onely Ecclesiasticall things are to be handled. Of them, first they are to be dealt with such as belong to the common direction of the Publique Assembly in the order of Lyturgie or Divine Service, Sermons, Prayers, Sacraments, Marriages, and Burialls; Then with such also as pertaine to the overfight of every one and their particular deeds. Further they are to cause such things as shall be chought meet to bee registred and written in a Booke. They are also to cause to be written in another book the names of them that are bap<g ref="char:EOLhyphen"/>tized, with the names of their Parents and Sureties. Like<g ref="char:EOLhyphen"/>wise of the Communicants. Further also are to bee noted their names that are married, that dye, and to whom letters testimoniall are given.</p>
+            </div>
+            <div type="part">
+               <head>Of the Censures.</head>
+               <p>None is to bee complained of unto the Consistory, unlesse
+<pb n="13" facs="tcp:159788:8"/>first the matter being uttered with silencing the parties name, if it seeme meete so to bee done by the judgement of the Con<g ref="char:EOLhyphen"/>sistory.</p>
+               <p>In private and lesse faults, the precept of Christ, <hi>Mat.</hi> 18. is to bee kept.</p>
+               <p>Greater and publique offences are to bee handled by the Consistory. Further publike offences are to be estemed: First, such as are done openly before all, or whomsoever, the whole Church knowing of it. Secondly, such as bee done in a pub<g ref="char:EOLhyphen"/>lique place, albeit few know it. Thirdly, that are made such by pertinacy &amp; contempt. Fourthly, that for the heinousnesse of the offence, are to bee punished with some grievous civill punishment.</p>
+               <p>They that are to bee excommunicated, (being in publique charge in the Church) are to be deposed also from their Char<g ref="char:EOLhyphen"/>ges. They also are to bee discharged, that are unfit for the Ministery by reason of their ignorance, or of some incura<g ref="char:EOLhyphen"/>ble disease, or by any other such cause are disabled to per<g ref="char:EOLhyphen"/>forme their Ministery. But in the roome of such as are disa<g ref="char:EOLhyphen"/>bled by meanes of sicknesse or age, let another bee pla<g ref="char:EOLhyphen"/>ced without the reproach of him that is discharged, and further, so as the reverence of the Ministery may remaine unto him, and hee may bee provided for liberally, and in good order.</p>
+               <p>When there is question concerning an Heretique complain<g ref="char:EOLhyphen"/>ed of to the Consistory; straight let two or three neighbour Ministers bee called, men godly and learned, and free from that suspition, by whose opinion hee may bee suspended till such time as the Conference may take knowledge of his cause.</p>
+               <p>The obstinate after admonition by the Consistory, though the fault have not beene so great, are to bee suspended from the Communion; and if they continue in their obstinacy, this shall bee the order to proceed to their excommunication.
+<pb n="14" facs="tcp:159788:9"/>Three severall Sabbath dayes after the Sermon, publiquely let bee declared the offence committed by the offendor, and the duties done to him, that hee might bee brought to repen<g ref="char:EOLhyphen"/>tance. The first Sabbath let not the offendors name bee published. The second let it bee declared, and with all a cer<g ref="char:EOLhyphen"/>taine day of the weeke named to bee kept for that cause in fa<g ref="char:EOLhyphen"/>sting and prayer. The third, let warning begiven of his excom<g ref="char:EOLunhyphen"/>municating, to follow the next Sabbath after, except there may bee shewed some sufficient cause to the contrary. So upon the fourth Sabbath Day, let the sentence of excommu<g ref="char:EOLhyphen"/>nication bee pronounced against him, that his Spirit may bee saved in the day of the Lord.</p>
+               <p>Hee that hath committed great offences opprobrious to the Church and to bee grievously punished by the Magistrates authority, albeit hee professe his repentance in word: yet for the triall thereof, and to take away the offence, let him for a time bee kept from the Communion. Which how often, and how long it is to bee done, let the Consistory according to their discretion determine. After which if the party repent, hee is brotherly to bee received againe, but not untill hee have openly professed his repentance before the Church by consent, whereof hee should have beene excom<g ref="char:EOLhyphen"/>municated.</p>
+               <p>If the Ministers of any publique Charge in the Church commit any such thing, they are to bee deposed from their charge.</p>
+               <p>The second kinde of Deacons is of distributers, who are they that take the charge for relieving of the poore</p>
+            </div>
+            <div type="part">
+               <head>Of the Assemblies of the Church.</head>
+               <p>Particular Churches are to communicate one with ano<g ref="char:EOLhyphen"/>ther by common meetings and resorts. In them onely Ec<g ref="char:EOLhyphen"/>clesiasticall matters are to bee handled, and of those, onely such as pertaine to the Churches of that resort.</p>
+               <pb n="15" facs="tcp:159788:9"/>
+               <p>Concerning other Churches, unlesse they be desired, they are to determine nothing further then to refer such matters to their next common and greater meeting.</p>
+               <p>Let the order of proceeding in them bee this. First, let the survey be taken of those that are present, and the names of those that are absent and should be there, be noted, that they may give a reason at their next meeting of their absence, or be censured by the judgement of the Assembly next.</p>
+               <p>Let the acts of the last assembly of that kinde be read, that if any of the same remain unfinished, they may be dispatched. Then let those things be dealt in, that are properly belong<g ref="char:EOLhyphen"/>ing to the present assembly. Where, first, the instructions sent from the Churches, are to be delivered by every one in order as they sit together with their letters of credence. Se<g ref="char:EOLhyphen"/>condly, let the state of the Churches of that resort be consi<g ref="char:EOLhyphen"/>dered, to wit, how they are instructed and guided. Whether the holy Doctrine and Discipline be taught and exercised in them, and whether the Ministers of publique charges do their duty, and such like.</p>
+               <p>Furthermore, they shall determine of those things that do appertain to the common state of all the Churches of that re<g ref="char:EOLhyphen"/>sort, or unto any of the same, which way may be sufficient for the overfight of the Churches. Lastly, if it seem meet, the Delegates present may be censured.</p>
+               <p>They that are to meet in such assemblies are to bee chosen by the consent of the Churches of that Assembly and confe<g ref="char:EOLhyphen"/>rence to whom it may appertain.</p>
+               <p>Let such onely bee chosen that exercise publique function in the Church of Ministery or Eldership, and which have sub<g ref="char:EOLhyphen"/>scribed to the Doctrine and Discipline, and have promised to behave themselves in all things according to the Word of God. Notwithstanding it may bee lawfull also for other El<g ref="char:EOLhyphen"/>ders and other Ministers to bee present, and likewise (if the
+<pb n="16" facs="tcp:159788:10"/>assembly think it meet) for Deacons and for students in Divi<g ref="char:EOLhyphen"/>nity, especially those that exercise themselves in expounding the holy Scriptures in the conferences, and be asked their o<g ref="char:EOLhyphen"/>pinions, which in Students is to this end, that their judge<g ref="char:EOLhyphen"/>ments in handling matters Ecclesiasticall, may bee both try<g ref="char:EOLhyphen"/>ed and sharpned, but they only are to give voyce which are chosen by the Churches, and have brought their instructions signed from them.</p>
+               <p>If there fall out any very weighty matter to be consulted of, let notice of it be given to the Moderatour of the Assem<g ref="char:EOLhyphen"/>bly next going before, or to the Minister of that Church where the next meeting is to be, the same is to send word of it in due time to the Minister of every Church of that assem<g ref="char:EOLhyphen"/>bly that they may communicate it afore-hand with those to whom it appertaineth, that the delegates resorting to the next meeting, may understand and report their judgements.</p>
+               <p>In appointing the place for the Assembly, regard must bee had of the convenient distance, and other commodities that no part may justly complain that they are burthened above others.</p>
+               <p>In every such Ecclesiasticall Assembly, it is meet there bee a Moderatour, hee is to have charge of the Assembly, to see it kept in good order, and hee is alwayes (if it may bee con<g ref="char:EOLhyphen"/>veniently) to bee changed, the choise is to bee in this man<g ref="char:EOLhyphen"/>ner.</p>
+               <p>The Moderatour of the former Assembly of that kinde, or in his absence the Minister of the Church where they meet, having first prayed fitly to that purpose, is to move the As<g ref="char:EOLhyphen"/>sembly to choose a Moderatour. Hee being chosen is to pro<g ref="char:EOLhyphen"/>vide that the things done in the assembly may bee writen, that the delegates of every Church may write them out, and communicate them with the conferences from whence they came.</p>
+               <pb n="17" facs="tcp:159788:10"/>
+               <p>The Moderatour is also by the order and judgement of the assembly, to give answer either by speech or by Letters, to such as desire any answer and to execute censures if any bee to bee exacuted.</p>
+               <p>Further hee is to procure all things to bee done in it, godly and quietly exhorting to meeknesse moderation of spirit and forbearing one of another where need shall be, and referring it to the Assembly, to take order for such as are obstinate and contentious. Lastly, he is to remember them of the next meeting following, with thanks for their paines, exhorting them to proceed cheerfully in their Callings, and so courte<g ref="char:EOLhyphen"/>ously to dismisse the Assembly, before such time none may depart without leave of the Assembly: Therefore, unlesse it bee a plain act, and manifest unto all, if any think himself in<g ref="char:EOLhyphen"/>jured by the lesse meeting, he may appeal still unto a greater, till he come to a generall Counsell; so that he ascend order<g ref="char:EOLhyphen"/>ly from the lesse to the next greater. But it is to be under<g ref="char:EOLhyphen"/>stood, that the sentence of the Assembly is holden firm, un<g ref="char:EOLhyphen"/>till it be otherwise judged by an Assembly of greater autho<g ref="char:EOLhyphen"/>rity.</p>
+            </div>
+            <div type="part">
+               <head>Assemblies or meetings are either Conferences or Synods.</head>
+               <p>Conferences are the meetings of the Elders of a few Chur<g ref="char:EOLhyphen"/>ches, as for example of twelve. There are to meet in a Con<g ref="char:EOLhyphen"/>ference chosen by the Eldership of every particular Church, one Minister and one Elder. The Conferences are to be kept once in six weeks.</p>
+               <p>They are especially to look unto the state of the Churches of that resort and Conference, examining particularly these severall points. Whether all things be done in them accor<g ref="char:EOLhyphen"/>ding to the holy Doctrine and Discipline of the Gospel, to wit, whether any question be moved concerning any point of Doctrine. Whether the Ecclesiasticall Discipline be duely observed? Whether any Minister be wanting in any of those
+<pb n="18" facs="tcp:159788:11"/>Churches, that a sufficient one in due time may be procured. Whether the other Ministers of publique charge in the Church be appointed in every Congregation? Whether care be had of Schooles, and for the poore? Finally, they are to be demanded wherein any of them needeth the advice of the Conference for the advancement of the Gospel amongst them.</p>
+               <p>Before the end of the meeting (if it shall be so thought good by them) Let one of the Ministers assembled in Confe<g ref="char:EOLhyphen"/>rence either chosen by voyce, or taking it by turn, Preach publiquely. Of his speech let the rest judge among them<g ref="char:EOLhyphen"/>selves (the Elders being put apart) and admonish him bro<g ref="char:EOLhyphen"/>therly, if there be any cause, examining all things according to those rules that are before declared in the Chapter con<g ref="char:EOLhyphen"/>cerning the things that are to be performed by those that Preach.</p>
+            </div>
+            <div type="part">
+               <head>Of Synods.</head>
+               <p>A Synod is the meeting of chosen men of many Confe<g ref="char:EOLhyphen"/>rences. In it let the whole Treatise of Discipline be read. In it also (other things first being finished, as was said before) let all those that are present be censured (if it may be done conveniently) and let them also have a communion in and with the Church where they were assembled.</p>
+               <p>There are two sorts of Synods. The first is particular, which comprehendeth both the Provinciall and Nationall Synod. A Provinciall Synod is the meeting of the chosen men of e<g ref="char:EOLhyphen"/>very conference within the Province.</p>
+               <p>A Province containeth 24 Conferences.</p>
+               <p>A fit way to call a Provinciall Councell may be this; the care thereof (except themselves will determine of it) may be committed to the particular Eldership of some Conference within the Province, which by advise of the same Conference
+<pb n="19" facs="tcp:159788:11"/>may appoint the place and time for the meeting of the Pro<g ref="char:EOLhyphen"/>vinciall Synod.</p>
+               <p>To that Church or Eldership are to bee sent, the matters that seemed to the particular Conferences more difficult for them to take order in, and such as belong to the Churches of the whole Province, which is to bee done diligently, and in good time, that the same may in due season give notice of the place, and time of the Synod, and of the matters to bee de<g ref="char:EOLhyphen"/>bated therein, that they which shall bee sent, may come the better prepared, and judge of them according to the advise of the conferences.</p>
+               <p>Two Ministers, and as many Elders are to bee sent from e<g ref="char:EOLhyphen"/>very Conference unto the Provinciall Synod. The same is to bee held every half yeare or oftner, till the Discipline bee setled. It is to bee held three moneths before every Nation<g ref="char:EOLhyphen"/>all Synod, that they may prepare and make ready those things that pertaine to the Nationall. The Acts of the Provinciall Synod are to bee sent unto the Nationall by the Eldership of that Church in which it was holden, and every Minister is to bee furnished with a Copie of them, and with the reasons of the same.</p>
+               <p>A Nationall Synod or Convocation, is a meeting of the chosen men of every Province, within the Dominion of the same Nation, and Civill Government.</p>
+               <p>The way to call it, (unlesse it shall determine otherwise) may bee the same with the Provinciall, that is, by the Eldership of some particular Church, which shall appoint the time and place of the next Nationall Convocation, but not otherwise then by the advice of their Provinciall Synod.</p>
+               <p>Out of every Provinciall Synod there are to bee chosen three Ministers, and as many Elders to bee sent to the Na<g ref="char:EOLhyphen"/>tionall. They are to handle the things pertaining to the
+<pb n="20" facs="tcp:159788:12"/>Churches of the whole Nation, or Kingdome, as the Do<g ref="char:EOLhyphen"/>ctrine Discipline, Ceremonies, things not decided by inferior meetings, appeales, and such like. By the order of the same, one is to be appointed, which may gather into one Book, the notes of every particular Church.</p>
+               <p>Thus much for particular meetings the universall follow<g ref="char:EOLhyphen"/>eth, which is called a generall or Oecomenicall Counsell, which is a meeting of the chosen men of every Nationall Sy<g ref="char:EOLhyphen"/>nod.</p>
+               <p>This Discipline, intituled the Discipline of the Church described in the Word of God as farre as we can judge, is taken and drawn from the most pure fountaines of the Word of God; and containeth in it the Discipline of the Church that is necessary, essentiall, and common to all ages of the Church.</p>
+               <p>The Synodicall also adjoyned, as it resteth upon the same foundations is likewise necessary and perpetuall. But as far as it is not expresly confirmed by authority of the holy Scripture, but is applyed to the use and times of the Church as their divers state may require according to the Analogie and generall rules of the same Scripture is to be judged pro<g ref="char:EOLhyphen"/>fitable for the Churches that receive it. But may be chan<g ref="char:EOLhyphen"/>ged in such things as belong not to the essence of the Disci<g ref="char:EOLhyphen"/>pline upon a like godly reason, as the divers estate of the Churches may require.</p>
+            </div>
+            <div type="part">
+               <head>The forme of Subscription.</head>
+               <p>The Brethren of the Conference of <hi>N.</hi> whose names are hereunder-writen, have subscribed this Discipline after this manner.</p>
+               <p>This Discipline we allow as a godly Discipline, and agree<g ref="char:EOLhyphen"/>able to the Word of God (yet so as we may be first satisfied in the things hereunder noted) and desire the same so acknow<g ref="char:EOLhyphen"/>ledged by us to be furthered by all lawfull meanes that by
+<pb n="21" facs="tcp:159788:12"/>publique authority of the Magistrate, and of our Church, it may be established.</p>
+               <p>Which thing if it may be obtained of her right excellent Majesty, and other the Magistrates of this Kingdom, we pro<g ref="char:EOLhyphen"/>mise that we will doe nothing against it wherby the publique peace of the Church may be troubled. In the mean time we promise to observe it so farre as it may be lawfull for us so to doe by the publique Laws of this Kingdome, and by the peace of our Church.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
